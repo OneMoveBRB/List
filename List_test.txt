@@ -1,0 +1,301 @@
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 
+List next: 
+List prev: 
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 0 0 0 0 0 0 0 0 
+List next: 0 2 3 4 5 6 7 0 
+List prev: 0 0 0 0 0 0 0 0 
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 37 32 0 0 0 0 0 0 
+List next: 0 0 3 4 5 6 7 0 
+List prev: 1 0 0 0 0 0 0 0 
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 37 32 0 0 0 0 0 0 
+List next: 0 0 3 4 5 6 7 0 
+List prev: 1 0 0 0 0 0 0 0 
+List HEAD: 0
+List TAIL: 0
+List FREE: 0
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 0 32 0 0 0 0 0 0 
+List next: 1 0 3 4 5 6 7 0 
+List prev: 0 0 0 0 0 0 0 0 
+List HEAD: 0
+List TAIL: 1
+List FREE: 0
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 32 32 0 0 0 0 0 0 
+List next: 0 0 3 4 5 6 7 0 
+List prev: 1 0 0 0 0 0 0 0 
+List HEAD: 1
+List TAIL: 0
+List FREE: 0
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 0 32 0 0 0 0 0 0 
+List next: 0 0 3 4 5 6 7 0 
+List prev: 0 0 0 0 0 0 0 0 
+List HEAD: 1
+List TAIL: 1
+List FREE: 0
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 0 32 0 0 0 0 0 0 
+List next: 0 0 3 4 5 6 7 0 
+List prev: 0 0 0 0 0 0 0 0 
+List HEAD: 1
+List TAIL: 1
+List FREE: 2
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 0 32 37 0 0 0 0 0 
+List next: 0 2 0 4 5 6 7 0 
+List prev: 0 0 1 0 0 0 0 0 
+List HEAD: 1
+List TAIL: 2
+List FREE: 0
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 0 32 37 0 0 0 0 0 
+List next: 0 2 0 4 5 6 7 0 
+List prev: 0 0 1 0 0 0 0 0 
+List HEAD: 1
+List TAIL: 2
+List FREE: 3
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 0 32 33 34 35 0 0 0 
+List next: 0 2 3 4 0 6 7 0 
+List prev: 0 0 1 2 3 0 0 0 
+List HEAD: 1
+List TAIL: 4
+List FREE: 5
+
+############## LIST DUMP ##############
+List size: 0
+List capacity: 8
+List data: 0 32 33 34 35 0 0 0 
+List next: 0 2 3 4 0 6 7 0 
+List prev: 0 0 1 2 3 0 0 0 
+List HEAD: 1
+List TAIL: 4
+List FREE: 5
+
+############## LIST DUMP ##############
+List size: 4
+List capacity: 8
+List data: 0 32 33 34 35 0 0 0 
+List next: 0 2 3 4 0 6 7 0 
+List prev: 0 0 1 2 3 0 0 0 
+List HEAD: 1
+List TAIL: 4
+List FREE: 5
+
+############## LIST DUMP ##############
+List size: 4
+List capacity: 8
+List data: 0 32 33 34 35 10 0 0 
+List next: 0 2 5 4 0 3 7 0 
+List prev: 0 0 1 5 3 2 0 0 
+List HEAD: 1
+List TAIL: 4
+List FREE: 6
+
+############## LIST DUMP ##############
+List size: 5
+List capacity: 8
+List data: 0 32 33 34 35 10 0 0 
+List next: 0 2 5 4 0 3 7 0 
+List prev: 0 0 1 5 3 2 0 0 
+List HEAD: 1
+List TAIL: 4
+List FREE: 6
+
+############## LIST DUMP ##############
+List size: 5
+List capacity: 8
+List data: 0 32 33 34 35 10 20 0 
+List next: 0 2 5 4 0 3 1 0 
+List prev: 0 6 1 5 3 2 0 0 
+List HEAD: 6
+List TAIL: 4
+List FREE: 7
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 32 33 34 35 10 20 0 
+List next: 0 2 5 4 0 3 1 0 
+List prev: 0 6 1 5 3 2 0 0 
+List HEAD: 6
+List TAIL: 4
+List FREE: 7
+
+############## LIST DUMP ##############
+List size: 7
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 2 6 4 5 0 3 1 
+List prev: 0 7 1 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 0
+
+############## LIST DUMP ##############
+List size: 8
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 2 6 4 5 0 3 1 
+List prev: 0 7 1 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 0
+
+############## LIST DUMP ##############
+List size: 7
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 0 6 4 5 0 3 2 
+List prev: 0 0 7 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 7
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 0 6 4 5 0 3 2 
+List prev: 0 0 7 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 30 32 33 34 35 20 0 
+List next: 0 7 3 4 5 0 2 0 
+List prev: 0 0 6 2 3 4 0 0 
+List HEAD: 6
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 0 6 4 5 0 3 2 
+List prev: 0 0 7 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 0 6 4 5 0 3 2 
+List prev: 0 0 7 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 0 6 4 5 0 3 2 
+List prev: 0 0 7 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 1 6 4 5 0 3 2 
+List prev: 0 0 7 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 1 6 4 5 0 3 2 
+List prev: 0 0 7 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 1 6 4 5 0 3 2 
+List prev: 0 0 7 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 30 32 20 34 35 10 0 
+List next: 0 1 6 2 5 0 3 0 
+List prev: 0 0 3 0 3 4 2 0 
+List HEAD: 3
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 1 6 4 5 0 3 2 
+List prev: 0 0 7 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 1
+
+############## LIST DUMP ##############
+List size: 6
+List capacity: 8
+List data: 0 30 32 33 34 35 10 20 
+List next: 0 1 6 4 5 0 3 2 
+List prev: 0 0 7 6 3 4 2 0 
+List HEAD: 7
+List TAIL: 5
+List FREE: 1
